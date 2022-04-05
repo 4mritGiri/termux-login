@@ -30,7 +30,7 @@ This script is for security or lock in termux
 
 ``apt install git ``
 
-``git clone`` https://github.com/M4ND33P-M4L4K4R143/Termux-Login
+``git clone`` 
 
 ``cd Termux-Login``
 
