@@ -37,7 +37,7 @@ if [[ \$pass == $password && \$user == $username ]]; then
 sleep 3
 clear
 cd $HOME
-cd Termux-Login
+cd termux-login
 cd Song
 python sound_effect.py
 clear
@@ -78,7 +78,7 @@ shopt -s compat32
 shopt -s lithist
 comment
 cd $HOME
-cd Termux-Login
+cd termux-login
 cd
 else
 echo ""
