@@ -21,6 +21,9 @@ FORGET PASSWORD
 
 This script is for security or lock in termux
 
+#Apps Install
+**playstore**https://play.google.com/store/apps/details?id=com.termux.api
+
 # Commands
 
 ``apt update``
