@@ -1,5 +1,7 @@
 # YOUTUBE
-[![Build status](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_conformation=1)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_conformation=1)
+[![image](https://user-images.githubusercontent.com/85377404/161822288-e91687f5-7d3b-4a96-bbe4-08e01d04cf0d.png)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_conformation=1)
+
+[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/Amrit-Giri)
 
 # COPYRIGHT
 
