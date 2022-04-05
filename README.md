@@ -1,10 +1,10 @@
 # COPYRIGHT
 
-**Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. **
+**Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.**
 
 # IT WILL UPGRADE
 
-**AS POSSIBLE UPDATE VERSION WILL COME Soon **
+**AS POSSIBLE UPDATE VERSION WILL COME Soon**
 
 #
 REMOVE LOCK FUNCTION
@@ -22,13 +22,13 @@ FORGET PASSWORD
 This script is for security or lock in termux
 
 # Apps Install
-** Hello everyone You can install Termux from F-Drod or given link. You can install from playstore you got an error.So install from ''f-droid'' Given link is below.**
+**Hello everyone You can install Termux from F-Drod or given link. You can install from playstore you got an error.So install from ''f-droid'' Given link is below.**
 
 **termux-api install:** https://play.google.com/store/apps/details?id=com.termux.api
 
-** Termux Direct install: ** https://f-droid.org/repo/com.termux_118.apk
+**Termux Direct install:** https://f-droid.org/repo/com.termux_118.apk
 
-**F-Droid install: ** https://f-droid.org/F-Droid.apk
+**F-Droid install:** https://f-droid.org/F-Droid.apk
 
 # Commands
 
