@@ -1,4 +1,5 @@
-# termux-login# COPYRIGHT
+# termux-login# 
+COPYRIGHT
 
 **Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is >
 
@@ -8,9 +9,9 @@
 
 #
 
-REMOVE LOCK FUNCTIONS
+REMOVE LOCK FUNCTION
 
-        &
+
 
 FORGET PASSWORD
 
