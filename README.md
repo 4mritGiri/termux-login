@@ -8,7 +8,7 @@
 
 #
 REMOVE LOCK FUNCTION
-
+  &
 FORGET PASSWORD
 
 ``
@@ -42,7 +42,8 @@ This script is for security or lock in termux
 # Note
 
 **If you entered password incorrect or name i can't help you**
+but Restart your Terminal and ENTER curent Password then login.
 
 # Contributers
 
-Mandeep Malakar (only)
+4mrit Giri (only)
