@@ -22,7 +22,11 @@ FORGET PASSWORD
 This script is for security or lock in termux
 
 # Apps Install
-**playstore** https://play.google.com/store/apps/details?id=com.termux.api
+** Hello everyone You can install Termux from F-Drod or given link. You can install from playstore you got an error.So install from ''f-droid'' Given link is below.
+
+**termux-api install:** https://play.google.com/store/apps/details?id=com.termux.api
+** Termux Direct install: ** https://f-droid.org/repo/com.termux_118.apk
+**F-Droid install: ** https://f-droid.org/F-Droid.apk
 
 # Commands
 
