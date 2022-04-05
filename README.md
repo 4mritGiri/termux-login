@@ -22,7 +22,7 @@ FORGET PASSWORD
 This script is for security or lock in termux
 
 # Apps Install
-**Hello everyone You can install Termux from F-Drod or given link. You can install from playstore you got an error.So install from ''f-droid'' Given link is below.**
+**Hello everyone You can install Termux from F-Drod or given link. You can install from playstore you got an error.So install from ``f-droid`` Given link is below.**
 
 **termux-api install:** https://play.google.com/store/apps/details?id=com.termux.api
 
@@ -36,7 +36,7 @@ This script is for security or lock in termux
 
 ``apt install git ``
 
-``git clone`` https://github.com/Amrit-Giri/termux-login.git
+``git clone https://github.com/Amrit-Giri/termux-login.git``
 
 ``cd Termux-Login``
 
