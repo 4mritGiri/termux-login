@@ -1,5 +1,4 @@
-# termux-login# 
-COPYRIGHT
+# COPYRIGHT
 
 **Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is >
 
