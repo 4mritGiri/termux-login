@@ -28,7 +28,7 @@ This script is for security or lock in termux
 
 ``apt update``
 
-``apt install git ``
+``apt install git `` https://github.com/Amrit-Giri/termux-login.git
 
 ``git clone`` 
 
