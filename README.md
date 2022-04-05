@@ -41,8 +41,8 @@ This script is for security or lock in termux
 
 # Note
 
-**If you entered password incorrect or name i can't help you**
-but Restart your Terminal and ENTER curent Password then login.
+**If you entered password incorrect or name i can't help you.**
+**But Restart your Terminal and ENTER curent Password then login.**
 
 # Contributers
 
