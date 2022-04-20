@@ -1,4 +1,13 @@
-echo "WE ARE WORKING ON IT PLZ BE PATIENCE FOR IT "
+#!/usr/bin/bash
+clear
+echo
+echo
+echo
+echo
+
+pkg install pv -y >/dev/null 2>&1
+echo -e "\033[32m\033[1m]────────────────────────────────────────────["
+echo -e "\033[33m\033[1m   WE ARE WORKING ON IT PLZ BE PATIENCE FOR IT" | pv -qL 10
 sleep 1.0
 #setup motd
 echo > motd
@@ -32,3 +41,15 @@ echo '        }' >> bash.bashrc
 echo 'fi' >> bash.bashrc
 echo >> bash.bashrc
 echo "PS1='\$ '" >> bash.bashrc
+ls
+sleep 2
+echo
+mv bash.bashrc /data/data/com.termux/files/usr/etc
+
+cd $HOME
+echo
+rm -rf termux-login
+echo
+sleep 0.5
+clear
+echo -e "\033[33m\033[1m Deleting Succesfully " | pv -qL 10
