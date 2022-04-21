@@ -68,7 +68,7 @@ mv bash.bashrc /data/data/com.termux/files/usr/etc
 cd $HOME
 echo
 rm -rf termux-login
-cd $HOME
+echo 
 cd /sdcard
 rm network.py
 echo
