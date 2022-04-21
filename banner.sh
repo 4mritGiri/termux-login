@@ -359,9 +359,12 @@ echo -e "\033[32m\033[1m
 
      \033[1m\033[36mTool Name       \033[32m: \033[33mTermux-Login
      \033[1m\033[36mAuthor_Name     \033[32m: \033[33mAmrit Giri 
-     \033[1m\033[36mYouTube_Channel \033[32m: \033[33mLegendspam 
+     \033[1m\033[36mYouTube_Channel \033[32m: \033[33mLegendspam
+     \033[1m\033[36mGitHub_Link     \033[32m: \033[33mhttps://github.com/amrit-giri/
+     \033[1m\033[36mWebSite         \033[32m: \033[33mamrit-giri.com.np
      \033[1m\033[36mCountry         \033[32m: \033[33mNepal
-     \033[1m\033[36mState           \033[32m: \033[33mLumbini   
+     \033[1m\033[36mState           \033[32m: \033[33mLumbini 
+
   \033[31m________________________________________________
 " | pv -qL 20
 
