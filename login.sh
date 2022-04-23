@@ -84,7 +84,7 @@ else
 echo ""
 echo -e "\e[1;31m  Your Password Is Incorrect ! <)
 \e[0m"
-termux-tts-speak Your termux is locked please relogin. 
+termux-tts-speak Your termux is locked please re login. 
 sleep 0.2
 cmatrix -L 
 
